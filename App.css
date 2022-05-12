@@ -1,0 +1,19 @@
+.App {
+    position: relative;
+}
+.test1 {
+    position: relative;
+    margin-left: 100px;
+}
+.range_1{
+    position: relative;
+    margin-left: 100px;
+}
+.range_2{
+
+    padding-left: 200px;
+}
+.range_3{
+
+    padding-left: 300px;
+}
